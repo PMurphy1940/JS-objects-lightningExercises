@@ -1,1 +1,2 @@
 # JS-objects-lightningExercises
+The file lightning.js contains my solutions to the lightning exercises in chapter 2.2 JS_Objects. The index.html contians no formatting. It only allows lightning.js to be examined in the inspection console.
